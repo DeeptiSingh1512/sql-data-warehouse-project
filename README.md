@@ -64,7 +64,7 @@ Design and implement advanced SQL-based analytics platform delivering comprehens
 
 These analytical solutions provide executive leadership with critical performance indicators and data-driven insights supporting strategic planning initiatives.
 
-Detailed specifications available in [docs/requirements.md](docs/requirements.md).
+
 
 ## 📁 Project Organization & Structure
 ```
