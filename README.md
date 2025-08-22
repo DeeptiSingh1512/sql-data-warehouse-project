@@ -9,7 +9,7 @@ This comprehensive project exemplifies professional-grade data warehouse impleme
 
 Our solution implements a robust three-tier Medallion Architecture framework encompassing **Raw**, **Refined**, and **Analytics-Ready** data layers:
 
-![System Architecture](docs/data_architecture.png)
+
 
 ### Architecture Components:
 
